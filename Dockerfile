@@ -7,4 +7,5 @@ RUN apk update && \
   curl \
   inotify-tools \
   socat \
-  git
+  git \
+  jq
