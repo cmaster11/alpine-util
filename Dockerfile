@@ -6,4 +6,5 @@ RUN apk update && \
   bind-tools \
   curl \
   inotify-tools \
-  socat
+  socat \
+  git
